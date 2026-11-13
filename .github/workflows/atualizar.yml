@@ -1,1 +1,84 @@
+name: Atualizar lista M3U (FreeTV Brasil)
 
+on:
+  schedule:
+    # A cada 6 horas (horario UTC): 00:00, 06:00, 12:00, 18:00
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "freetv_br.py"
+      - ".github/workflows/atualizar.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-lista
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar a lista e testar os canais
+        run: python freetv_br.py --testar-tudo
+
+      - name: Escrever resumo da execucao
+        if: always()
+        run: |
+          if [ -f relatorio.json ]; then
+            python resumo.py >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Publicar a lista no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Guarda os arquivos gerados num lugar temporario
+          mkdir -p /tmp/saida
+          cp freetv_br.m3u estado_canais.json relatorio.json /tmp/saida/
+
+          for i in 1 2 3 4 5; do
+            # Sincroniza com o remoto e repoe os arquivos recem-gerados
+            git fetch origin main || true
+            git reset --hard origin/main
+            cp /tmp/saida/freetv_br.m3u /tmp/saida/estado_canais.json /tmp/saida/relatorio.json .
+            git add freetv_br.m3u estado_canais.json relatorio.json
+            if git diff --staged --quiet; then
+              echo "Nada mudou nesta execucao."
+              exit 0
+            fi
+            git commit -m "Atualiza lista M3U"
+            if git push origin HEAD:main; then
+              echo "Lista publicada (tentativa $i)."
+              exit 0
+            fi
+            echo "Envio falhou, tentando de novo (tentativa $i)..."
+            sleep 5
+          done
+          echo "Nao foi possivel publicar depois de 5 tentativas."
+          exit 1
+
+      - name: Disponibilizar a lista como arquivo baixavel
+        uses: actions/upload-artifact@v4
+        with:
+          name: lista-m3u
+          path: |
+            freetv_br.m3u
+            relatorio.json
+          retention-days: 7
