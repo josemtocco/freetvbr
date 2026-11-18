@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 # Lista gerada automaticamente a partir de freetv.studio (canais do Brasil)
-# Atualizada em: 2026-11-18T11:49:01-03:00
-# Canais nesta lista: 232
+# Atualizada em: 2026-11-18T20:44:00-03:00
+# Canais nesta lista: 231
 # Para SS IPTV: remova e adicione a lista novamente se ela for atualizada
 
 #EXTINF:-1 tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral" content-type="video",Adesso TV
@@ -70,7 +70,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="RecordTV Sao Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="Geral" content-type="video",RecordTV Sao Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral" content-type="video",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
+http://170.84.165.204/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Geral" content-type="video",Rede CNT Rio de Janeiro
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-name="Rede SPTV" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Geral" content-type="video",Rede SPTV
@@ -187,8 +187,6 @@ https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="Times Brasil" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="Notícias" content-type="video",Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Notícias" content-type="video",TV Brusque
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias" content-type="video",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-name="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias" content-type="video",TVideoNews
@@ -271,6 +269,8 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-name="TV Natal" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="Entretenimento" content-type="video",TV Natal
 http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="TV Vicosa" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entretenimento" content-type="video",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Zoom" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entretenimento" content-type="video",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-name="TV+Pet" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="Entretenimento" content-type="video",TV+Pet
@@ -326,7 +326,7 @@ http://45.185.15.154:9080/stream/28/index.m3u8
 #EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Filmes" content-type="video",Telecine Touch
 http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Cultura" content-type="video",Arte 1
-http://45.177.114.115/ARTE1/index.m3u8
+http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-name="Bem Mais TV" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" group-title="Cultura" content-type="video",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-name="STZ TV" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Cultura" content-type="video",STZ TV
@@ -453,8 +453,6 @@ https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Profissao" tvg-logo="https://i.imgur.com/c33suOT.png" group-title="Outros" content-type="video",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="Outros" content-type="video",TV Sul Bahia
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Outros" content-type="video",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="TVE Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" group-title="Outros" content-type="video",TVE Bahia
