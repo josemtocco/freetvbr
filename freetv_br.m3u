@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 # Lista gerada automaticamente a partir de freetv.studio (canais do Brasil)
-# Atualizada em: 2026-11-18T20:44:00-03:00
-# Canais nesta lista: 231
+# Atualizada em: 2026-11-19T02:01:45-03:00
+# Canais nesta lista: 230
 # Para SS IPTV: remova e adicione a lista novamente se ela for atualizada
 
 #EXTINF:-1 tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral" content-type="video",Adesso TV
@@ -70,7 +70,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="RecordTV Sao Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="Geral" content-type="video",RecordTV Sao Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral" content-type="video",Rede Brasil
-http://170.84.165.204/REDEBRASIL/index.m3u8
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Geral" content-type="video",Rede CNT Rio de Janeiro
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-name="Rede SPTV" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Geral" content-type="video",Rede SPTV
@@ -151,8 +151,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCOM Maceio" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Geral" content-type="video",TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-name="TVitape" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Geral" content-type="video",TVitape
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-name="TVLatinaSat" tvg-logo="https://latinasat.com.br/logo.png" group-title="Geral" content-type="video",TVLatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-name="TVNBN" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Geral" content-type="video",TVNBN
@@ -205,14 +203,14 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-name="IMPD TV Worldwide" tvg-logo="https://i.imgur.com/9dW3AUQ.png" group-title="Religioso" content-type="video",IMPD TV Worldwide
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Novo Tempo" group-title="Religioso" content-type="video",Novo Tempo
-http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-name="Plenitude TV" group-title="Religioso" content-type="video",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Familia" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="Religioso" content-type="video",Rede Familia
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="Religioso" content-type="video",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Impacto Gospel TV" tvg-logo="https://redeimpactogospel.com/assets/logo-512.png" group-title="Religioso" content-type="video",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-name="Rede Seculo 21" group-title="Religioso" content-type="video",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso" content-type="video",Rede Vida
