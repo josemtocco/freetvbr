@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 # Lista gerada automaticamente a partir de freetv.studio (canais do Brasil)
-# Atualizada em: 2026-11-19T02:01:45-03:00
-# Canais nesta lista: 230
+# Atualizada em: 2026-11-19T11:55:19-03:00
+# Canais nesta lista: 229
 # Para SS IPTV: remova e adicione a lista novamente se ela for atualizada
 
 #EXTINF:-1 tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral" content-type="video",Adesso TV
@@ -129,8 +129,6 @@ https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/pla
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-name="TV Globo Sao Paulo" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="Geral" content-type="video",TV Globo Sao Paulo
 http://170.84.165.204/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV Grao Para" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Geral" content-type="video",TV Grao Para
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Guarapari" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="Geral" content-type="video",TV Guarapari
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" group-title="Geral" content-type="video",TV Litoral RN
@@ -151,6 +149,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCOM Maceio" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Geral" content-type="video",TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-name="TVitape" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Geral" content-type="video",TVitape
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-name="TVLatinaSat" tvg-logo="https://latinasat.com.br/logo.png" group-title="Geral" content-type="video",TVLatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-name="TVNBN" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Geral" content-type="video",TVNBN
@@ -185,8 +185,8 @@ https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="Times Brasil" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="Notícias" content-type="video",Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias" content-type="video",TV Sim Cachoeiro
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Notícias" content-type="video",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-name="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias" content-type="video",TVideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-name="VEJA+ TV" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Notícias" content-type="video",VEJA+ TV
@@ -203,6 +203,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-name="IMPD TV Worldwide" tvg-logo="https://i.imgur.com/9dW3AUQ.png" group-title="Religioso" content-type="video",IMPD TV Worldwide
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Novo Tempo" group-title="Religioso" content-type="video",Novo Tempo
+http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-name="Plenitude TV" group-title="Religioso" content-type="video",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Familia" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="Religioso" content-type="video",Rede Familia
@@ -411,8 +413,6 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary" content-type="video",History
 http://170.83.16.50/HISTORY/index.m3u8
-#EXTINF:-1 tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Compras" content-type="video",1001 Noites
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-name="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Animacao" content-type="video",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Outros" content-type="video",Amazon Sat
@@ -437,8 +437,6 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="Outros" content-type="video",TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-name="TV Cidade de Petropolis" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="Outros" content-type="video",TV Cidade de Petropolis
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Verde Cuiaba" tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Outros" content-type="video",TV Cidade Verde Cuiaba
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-name="TV Clube" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Outros" content-type="video",TV Clube

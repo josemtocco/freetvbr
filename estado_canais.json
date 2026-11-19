@@ -11,11 +11,11 @@
         "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/1001Noites.br",
-      "falhas": 0,
+      "falhas": 1,
       "ultimo_ok": "2026-11-19T02:01:45-03:00",
-      "ultimo_resultado": "ok",
+      "ultimo_resultado": "falha",
       "inativo": false,
-      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
+      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
     },
     "AWTV.br": {
       "nome": "AWTV",
@@ -29,7 +29,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AWTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
@@ -46,7 +46,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AXN.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/AXN/index.m3u8"
@@ -62,7 +62,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AdessoTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
@@ -98,7 +98,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AgroCanal.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
@@ -116,7 +116,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AgroMais.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/AGRO_MAIS/index.m3u8"
@@ -146,7 +146,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AmazonSat.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
@@ -162,7 +162,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ArarunaTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
@@ -178,7 +178,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/AratuOn.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
@@ -195,7 +195,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Arte1.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/ARTE_1/index.m3u8"
@@ -210,7 +210,7 @@
         "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/AugeTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -242,7 +242,7 @@
         "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/BR8TV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -279,7 +279,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/BandNews.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/BAND_NEWS/index.m3u8"
@@ -297,7 +297,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/BandSports.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/BAND_SPORTS/index.m3u8"
@@ -314,7 +314,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/BemMaisTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
@@ -329,7 +329,7 @@
         "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/BemMelhor.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -360,7 +360,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/BoasNovas.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
@@ -376,7 +376,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/BoxKidsTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
@@ -393,7 +393,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CINDIETV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
@@ -409,7 +409,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CNNBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8"
@@ -426,7 +426,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/COMBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
@@ -457,7 +457,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Canal25Jundiai.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
@@ -473,7 +473,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Canal38.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
@@ -490,7 +490,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalEducacao.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8"
@@ -507,7 +507,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalFDR.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
@@ -524,7 +524,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalFutura.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/FUTURA/index.m3u8"
@@ -541,7 +541,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalGov.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://canalgov-stream.ebc.com.br/index.m3u8"
@@ -556,7 +556,7 @@
         "https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalLibras.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -573,7 +573,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalMetropolitanodeNoticias.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
@@ -606,7 +606,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalRural.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
@@ -621,7 +621,7 @@
         "https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalSTART.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -656,7 +656,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalSete.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
@@ -672,7 +672,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanalUOL.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
@@ -688,7 +688,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CanaldoBoi.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8"
@@ -719,7 +719,7 @@
         "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/CanaldoInter.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -736,7 +736,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Catve2.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
@@ -752,7 +752,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CatveFM.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
@@ -768,7 +768,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CatveMasterTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
@@ -779,7 +779,7 @@
       "categorias": [],
       "streams": [],
       "pagina": "https://freetv.studio/pt/channel/CazeTV.br",
-      "falhas": 6,
+      "falhas": 7,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -796,7 +796,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ChromaTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
@@ -811,7 +811,7 @@
         "https://play.redecinturaoverde.com.br/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/CinturaoVerde.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -828,7 +828,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ClassiqueTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
@@ -861,7 +861,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ComedyCentralBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
@@ -877,7 +877,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ConecTVBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
@@ -894,7 +894,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ConectaMaisTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
@@ -910,7 +910,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ConexaoTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
@@ -926,7 +926,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/CulturaFast.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
@@ -960,7 +960,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/DemaisTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
@@ -976,7 +976,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/DespertarTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
@@ -992,7 +992,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/DumDum.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/zoomoo/index.m3u8"
@@ -1009,7 +1009,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ESPN.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
@@ -1026,7 +1026,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ESPN3.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
@@ -1042,7 +1042,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ESPN4.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
@@ -1059,7 +1059,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/EUTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
@@ -1076,7 +1076,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ElementalChannel.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
@@ -1092,7 +1092,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ElyTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
@@ -1108,7 +1108,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/FalaLitoral.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
@@ -1125,7 +1125,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/FishTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/FISH_TV/index.m3u8"
@@ -1142,7 +1142,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/FonteTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
@@ -1157,7 +1157,7 @@
         "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/ForaTedioTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1174,7 +1174,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Futura.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
@@ -1237,7 +1237,7 @@
         "http://79.127.238.228:14093"
       ],
       "pagina": "https://freetv.studio/pt/channel/GloboNews.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1284,7 +1284,7 @@
         "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/GloobWeb.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1301,7 +1301,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/GospelCartoon.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
@@ -1317,7 +1317,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/GospelMovieTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
@@ -1334,7 +1334,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/History.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/HISTORY/index.m3u8"
@@ -1350,7 +1350,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/IMPDTVWorldwide.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8"
@@ -1366,7 +1366,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ISTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
@@ -1382,7 +1382,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/J3NEWSTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
@@ -1400,7 +1400,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/JovemPanNews.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
@@ -1431,7 +1431,7 @@
         "https://tv.laboralsst.com.br/hls/stream.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/LaboralTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1448,7 +1448,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/LamoreRockShowWebTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
@@ -1463,7 +1463,7 @@
         "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/LiderTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1478,7 +1478,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Lke.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
@@ -1494,7 +1494,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Loading.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
@@ -1509,7 +1509,7 @@
         "https://play.mbcbrasil.tv.br/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/MBCBrasilTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1542,7 +1542,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/MusicBoxBrazil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8"
@@ -1558,7 +1558,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/MyTimeMovieNetwork.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
@@ -1573,7 +1573,7 @@
         "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/NSports.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1591,7 +1591,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/NTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
@@ -1607,7 +1607,7 @@
         "https://x1colegal.com/hls/stream.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/NickOnline.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1624,7 +1624,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Nickelodeon.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
@@ -1638,7 +1638,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/NovaEraTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
@@ -1653,9 +1653,9 @@
         "http://186.219.52.187/novo_tempo/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/NovoTempo.br",
-      "falhas": 1,
-      "ultimo_ok": "2026-11-18T20:44:00-03:00",
-      "ultimo_resultado": "falha",
+      "falhas": 0,
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
+      "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/novo_tempo/index.m3u8"
     },
@@ -1669,7 +1669,7 @@
         "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/NuevoTiempo.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -1686,7 +1686,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/ODiaTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
@@ -1702,7 +1702,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PetloversTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
@@ -1717,7 +1717,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PlayTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8"
@@ -1733,7 +1733,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PlenaTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
@@ -1749,7 +1749,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PlenitudeTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
@@ -1768,7 +1768,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PlusMaisUm.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
@@ -1784,7 +1784,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/PrimerTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8"
@@ -1800,7 +1800,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RBATV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
@@ -1836,7 +1836,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RITTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
@@ -1854,7 +1854,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/Record.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
@@ -1877,7 +1877,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RecordNews.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
@@ -1956,7 +1956,7 @@
         "http://200.77.176.130:8000/udp/224.0.0.4:49152"
       ],
       "pagina": "https://freetv.studio/pt/channel/RecordTVInteriorSP.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2023,7 +2023,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
@@ -2039,7 +2039,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeCNTRiodeJaneiro.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8"
@@ -2054,7 +2054,7 @@
         "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeCNTSalvador.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2069,7 +2069,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeFamilia.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/rede_familia/index.m3u8"
@@ -2088,7 +2088,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeGospel.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
@@ -2102,7 +2102,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeMeioNorte.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
@@ -2117,7 +2117,7 @@
         "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeMetropole.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2135,7 +2135,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeMinas.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
@@ -2152,7 +2152,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeNGT.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
@@ -2167,7 +2167,7 @@
         "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/RedePremiumTV.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2198,7 +2198,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeSPTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
@@ -2214,7 +2214,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeSeculo21.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/seculo21/index.m3u8"
@@ -2233,7 +2233,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/REDE_TV/index.m3u8"
@@ -2249,7 +2249,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeTVMais.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
@@ -2263,7 +2263,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeTVParana.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
@@ -2282,7 +2282,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeVida.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/rede_vida/index.m3u8"
@@ -2298,7 +2298,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RetroCartoon.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
@@ -2330,7 +2330,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SBTInterior.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
@@ -2357,12 +2357,13 @@
       "categorias": [],
       "streams": [
         "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8",
         "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
         "https://media.cdntvms.com.br/sbt_sat/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/SBTNacional.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
@@ -2378,7 +2379,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SBTNews.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
@@ -2422,7 +2423,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SESCTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/SESCTVHD/index.m3u8"
@@ -2436,7 +2437,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SICTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
@@ -2452,7 +2453,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SOUTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
@@ -2469,7 +2470,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/STZTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
@@ -2501,7 +2502,7 @@
         "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/SeriesClassic.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2549,7 +2550,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SonyChannel.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
@@ -2566,7 +2567,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/SonyMovies.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/SONY_MOVIES/index.m3u8"
@@ -2598,7 +2599,7 @@
         "http://170.83.49.66:8083/SPORTV3HD/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/SporTV3.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2615,7 +2616,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TCM10HD.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
@@ -2645,7 +2646,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVACritica.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
@@ -2660,7 +2661,7 @@
         "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAFolha.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2676,7 +2677,7 @@
         "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAdorar.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2693,7 +2694,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAldeia.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
@@ -2709,7 +2710,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAliancaCatarinense.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
@@ -2725,7 +2726,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAlternativa.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
@@ -2744,7 +2745,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVAparecida.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
@@ -2760,7 +2761,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVArapuan.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
@@ -2808,7 +2809,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVBRICSPortuguese.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
@@ -2822,7 +2823,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVBahia.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
@@ -2858,7 +2859,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
@@ -2875,7 +2876,7 @@
       "pagina": "https://freetv.studio/pt/channel/TVBrasilOeste.br",
       "falhas": 0,
       "ultimo_ok": "2026-11-19T02:01:45-03:00",
-      "ultimo_resultado": "ok",
+      "ultimo_resultado": "inconclusivo",
       "inativo": false,
       "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
@@ -2889,9 +2890,9 @@
         "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVBrusque.br",
-      "falhas": 2,
-      "ultimo_ok": "2026-11-18T11:49:01-03:00",
-      "ultimo_resultado": "falha",
+      "falhas": 0,
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
+      "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     },
@@ -2906,7 +2907,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCOMMaceio.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
@@ -2921,7 +2922,7 @@
         "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCRio.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2940,7 +2941,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCamara.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
@@ -2955,7 +2956,7 @@
         "https://stream3.camara.gov.br/tv2/manifest.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCamara2.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -2987,7 +2988,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCancaoNova.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8"
@@ -3002,7 +3003,7 @@
         "https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCarioca.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3017,7 +3018,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCidadeVerdeCuiaba.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
@@ -3030,9 +3031,9 @@
         "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCidadedePetropolis.br",
-      "falhas": 0,
+      "falhas": 1,
       "ultimo_ok": null,
-      "ultimo_resultado": "inconclusivo",
+      "ultimo_resultado": "falha",
       "inativo": false,
       "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8"
     },
@@ -3045,7 +3046,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVClube.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
@@ -3061,7 +3062,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVComunitaria.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
@@ -3082,7 +3083,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCultura.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8"
@@ -3098,7 +3099,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVCuruca.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
@@ -3148,7 +3149,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVDifusao.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
@@ -3163,7 +3164,7 @@
         "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVDifusoraLeste.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3195,7 +3196,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVEBahia.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
@@ -3212,7 +3213,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVERS.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
@@ -3264,7 +3265,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVEvangelizar.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8"
@@ -3277,7 +3278,7 @@
         "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVFronteira.br",
-      "falhas": 7,
+      "falhas": 8,
       "ultimo_ok": "2026-11-16T00:50:10-03:00",
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3293,7 +3294,7 @@
         "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVFuturo.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3310,7 +3311,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGRANDENATALHDTVBRASIL.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
@@ -3325,7 +3326,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGazeta.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://186.219.52.187/gazeta/index.m3u8"
@@ -3340,7 +3341,7 @@
         "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGazin.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3370,7 +3371,7 @@
         "http://79.127.238.228:14173"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGloboBrasilia.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3401,9 +3402,9 @@
         "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGraoPara.br",
-      "falhas": 0,
+      "falhas": 1,
       "ultimo_ok": null,
-      "ultimo_resultado": "inconclusivo",
+      "ultimo_resultado": "falha",
       "inativo": false,
       "url": "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8"
     },
@@ -3416,7 +3417,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGuara.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
@@ -3432,7 +3433,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVGuarapari.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
@@ -3462,7 +3463,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVJustica.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8"
@@ -3478,7 +3479,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVLatinaSat.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
@@ -3491,7 +3492,7 @@
         "https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVLiberdade.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3508,7 +3509,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVLifeAmerica.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
@@ -3524,7 +3525,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVLitoralRN.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
@@ -3556,7 +3557,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVMaisMarica.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
@@ -3572,7 +3573,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVMarajoara.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
@@ -3675,7 +3676,7 @@
         "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVMeio.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3692,7 +3693,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVMetropole.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
@@ -3705,7 +3706,7 @@
         "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVMon.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3722,7 +3723,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVNBN.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
@@ -3756,7 +3757,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPadreCicero.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
@@ -3773,7 +3774,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPaiEterno.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8"
@@ -3787,7 +3788,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPantanalMS.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
@@ -3805,7 +3806,7 @@
         "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVParaense.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -3822,7 +3823,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVParanaTurismo.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://200.189.113.201/hls/tve.m3u8"
@@ -3838,7 +3839,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPassoFundo.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
@@ -3854,7 +3855,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPetropolis.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
@@ -3870,7 +3871,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVPlusPet.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
@@ -3900,7 +3901,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVRaTimBum.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8"
@@ -3916,7 +3917,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSaoRaimundo.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
@@ -3932,7 +3933,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSenado.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/TV_SENADO/index.m3u8"
@@ -3948,7 +3949,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSeries.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
@@ -3964,7 +3965,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVShowFortaleza.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
@@ -3979,9 +3980,9 @@
         "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSimCachoeiro.br",
-      "falhas": 0,
+      "falhas": 1,
       "ultimo_ok": "2026-11-19T02:01:45-03:00",
-      "ultimo_resultado": "ok",
+      "ultimo_resultado": "falha",
       "inativo": false,
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
@@ -3995,10 +3996,10 @@
         "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSimSaoMateus.br",
-      "falhas": 5,
+      "falhas": 6,
       "ultimo_ok": "2026-11-16T22:19:24-03:00",
       "ultimo_resultado": "falha",
-      "inativo": false,
+      "inativo": true,
       "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     },
     "TVSolComunidade.br": {
@@ -4009,7 +4010,7 @@
         "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSolComunidade.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4023,7 +4024,7 @@
         "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSulBahia.br",
-      "falhas": 2,
+      "falhas": 3,
       "ultimo_ok": "2026-11-18T11:49:01-03:00",
       "ultimo_resultado": "falha",
       "inativo": false,
@@ -4039,7 +4040,7 @@
         "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVSuldeMinas.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4071,7 +4072,7 @@
         "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVThathi.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4087,7 +4088,7 @@
         "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVUFG.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4106,7 +4107,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVUFOP.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
@@ -4122,7 +4123,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVUniversal.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
@@ -4138,7 +4139,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVVicosa.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
@@ -4152,7 +4153,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVVilaReal.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
@@ -4169,7 +4170,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVZoom.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
@@ -4201,7 +4202,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TVideoNews.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
@@ -4216,9 +4217,9 @@
         "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
       ],
       "pagina": "https://freetv.studio/pt/channel/TVitape.br",
-      "falhas": 1,
-      "ultimo_ok": "2026-11-18T20:44:00-03:00",
-      "ultimo_resultado": "falha",
+      "falhas": 0,
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
+      "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     },
@@ -4232,7 +4233,7 @@
         "http://46.151.196.223:14326"
       ],
       "pagina": "https://freetv.studio/pt/channel/TelecineAction.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4249,7 +4250,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TelecineCult.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://45.185.15.154:9080/stream/64/index.m3u8"
@@ -4265,7 +4266,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TelecineFun.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://45.185.15.154:9080/stream/63/index.m3u8"
@@ -4281,7 +4282,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TelecinePremium.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://45.185.15.154:9080/stream/28/index.m3u8"
@@ -4297,7 +4298,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TelecineTouch.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://45.185.15.154:9080/stream/29/index.m3u8"
@@ -4316,7 +4317,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TerraViva.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8"
@@ -4332,7 +4333,7 @@
         "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
       ],
       "pagina": "https://freetv.studio/pt/channel/TikTokRadioBrasil.br",
-      "falhas": 18,
+      "falhas": 19,
       "ultimo_ok": null,
       "ultimo_resultado": "falha",
       "inativo": true,
@@ -4349,7 +4350,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TimesBrasil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
@@ -4365,7 +4366,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/TravelBoxBrazil.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8"
@@ -4381,7 +4382,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/UMATV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
@@ -4414,7 +4415,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/UnisulTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
@@ -4431,7 +4432,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/VEJAPlusTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8"
@@ -4462,7 +4463,7 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/WooHoo.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "http://170.83.16.50/WOOHOO/index.m3u8"
@@ -4478,17 +4479,17 @@
       ],
       "pagina": "https://freetv.studio/pt/channel/RedeImpactoGospelTV.br",
       "falhas": 0,
-      "ultimo_ok": "2026-11-19T02:01:45-03:00",
+      "ultimo_ok": "2026-11-19T11:55:19-03:00",
       "ultimo_resultado": "ok",
       "inativo": false,
       "url": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8"
     }
   },
   "meta": {
-    "atualizacao": "2026-11-19T02:01:45-03:00",
+    "atualizacao": "2026-11-19T11:55:19-03:00",
     "limite_falhas": 6,
-    "total_canais": 230,
-    "total_ativos": 235,
-    "total_removidos": 43
+    "total_canais": 229,
+    "total_ativos": 234,
+    "total_removidos": 44
   }
 }
