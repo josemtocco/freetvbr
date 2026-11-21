@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 # Lista gerada automaticamente a partir de freetv.studio (canais do Brasil)
-# Atualizada em: 2026-11-21T01:48:04-03:00
-# Canais nesta lista: 228
+# Atualizada em: 2026-11-21T10:55:17-03:00
+# Canais nesta lista: 227
 # Para SS IPTV: remova e adicione a lista novamente se ela for atualizada
 
 #EXTINF:-1 tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral" content-type="video",Adesso TV
@@ -72,7 +72,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral" content-type="video",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Geral" content-type="video",Rede CNT Rio de Janeiro
-http://170.83.49.66:8083/REDECNTHD/index.m3u8
+http://186.219.52.187/cnt/index.m3u8
 #EXTINF:-1 tvg-name="Rede SPTV" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Geral" content-type="video",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede TV!" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" group-title="Geral" content-type="video",Rede TV!
@@ -111,6 +111,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Portuguese" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Geral" content-type="video",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Comunitaria" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Geral" content-type="video",TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Geral" content-type="video",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-name="TV Destak" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="Geral" content-type="video",TV Destak
@@ -125,10 +127,6 @@ https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/pla
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-name="TV Globo Sao Paulo" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="Geral" content-type="video",TV Globo Sao Paulo
 http://170.84.165.204/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV Guarapari" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="Geral" content-type="video",TV Guarapari
-https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" group-title="Geral" content-type="video",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Geral" content-type="video",TV Mais Marica
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Marajoara" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Geral" content-type="video",TV Marajoara
@@ -152,7 +150,7 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-name="TVNBN" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Geral" content-type="video",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-name="AgroMais" tvg-logo="https://i.imgur.com/sFcOZeo.png" group-title="Notícias" content-type="video",AgroMais
-http://170.83.16.50/AGRO_MAIS/index.m3u8
+http://45.177.114.115/AGROMAIS_HD/index.m3u8
 #EXTINF:-1 tvg-name="Aratu On" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="Notícias" content-type="video",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="BandNews" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="Notícias" content-type="video",BandNews
@@ -170,7 +168,7 @@ http://170.82.202.31/GNT/index.m3u8
 #EXTINF:-1 tvg-name="J3NEWS TV" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="Notícias" content-type="video",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias" content-type="video",Jovem Pan News
-http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+http://186.219.52.187/jp_news/index.m3u8
 #EXTINF:-1 tvg-name="Plena TV" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="Notícias" content-type="video",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias" content-type="video",Record News
@@ -189,6 +187,8 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-name="VEJA+ TV" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Notícias" content-type="video",VEJA+ TV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso" content-type="video",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-name="Despertar TV" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="Religioso" content-type="video",Despertar TV
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-name="Fonte TV" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religioso" content-type="video",Fonte TV
@@ -276,7 +276,7 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="VRT Channel" tvg-logo="https://i.imgur.com/crszh3d.png" group-title="Entretenimento" content-type="video",VRT Channel
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Educação" content-type="video",AgroCanal
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+http://186.219.52.187/agro_canal/index.m3u8
 #EXTINF:-1 tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Educação" content-type="video",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="Canal FDR" tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="Educação" content-type="video",Canal FDR
@@ -362,7 +362,7 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal do Criador" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Ao ar livre" content-type="video",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Ao ar livre" content-type="video",Canal Rural
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Ao ar livre" content-type="video",Fish TV
 http://170.83.16.50/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Ao ar livre" content-type="video",Terra Viva
@@ -433,8 +433,6 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-name="TV A Critica" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="Outros" content-type="video",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="Outros" content-type="video",TV Bahia
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Verde Cuiaba" tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Outros" content-type="video",TV Cidade Verde Cuiaba
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-name="TV Clube" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Outros" content-type="video",TV Clube
