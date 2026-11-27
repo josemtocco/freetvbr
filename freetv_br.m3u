@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 
 # Lista gerada automaticamente a partir de freetv.studio (canais do Brasil)
-# Atualizada em: 2026-11-26T22:18:45-03:00
-# Canais nesta lista: 232
+# Atualizada em: 2026-11-27T12:51:06-03:00
+# Canais nesta lista: 228
 # Para SS IPTV: remova e adicione a lista novamente se ela for atualizada
 
 #EXTINF:-1 tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral" content-type="video",Adesso TV
@@ -103,6 +103,8 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="Geral" content-type="video",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Geral" content-type="video",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Birigui" tvg-logo="https://i.imgur.com/z7VlNLR.png" group-title="Geral" content-type="video",TV Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="Geral" content-type="video",TV Brasil
@@ -129,8 +131,6 @@ http://186.219.52.187/gazeta/index.m3u8
 http://170.84.165.204/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-name="TV Guarapari" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="Geral" content-type="video",TV Guarapari
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" group-title="Geral" content-type="video",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Geral" content-type="video",TV Mais Marica
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Marajoara" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Geral" content-type="video",TV Marajoara
@@ -323,14 +323,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Filmes" content-type="video",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/6GuHXnr.png" group-title="Filmes" content-type="video",Telecine Cult
-http://45.185.15.154:9080/stream/64/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/MO2Ynki.png" group-title="Filmes" content-type="video",Telecine Fun
-http://45.185.15.154:9080/stream/63/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/uVFgIr8.png" group-title="Filmes" content-type="video",Telecine Premium
-http://45.185.15.154:9080/stream/28/index.m3u8
-#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/Nky0hRo.png" group-title="Filmes" content-type="video",Telecine Touch
-http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Cultura" content-type="video",Arte 1
 http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-name="Bem Mais TV" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" group-title="Cultura" content-type="video",Bem Mais TV
